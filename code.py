@@ -2,7 +2,7 @@
 # 2/9/2021
 # Intro to CS
 
-person = "YourNameHere"
+person = input("What's your name?")
 
 
 def hello(name):
