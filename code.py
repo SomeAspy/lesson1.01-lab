@@ -5,6 +5,6 @@
 person = "YourNameHere"
 
 def hello(name):
-    print("hello, " + name)
+    print("Hello, " + name)
 
 hello(person)
